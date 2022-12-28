@@ -21,7 +21,7 @@ const me = {
   city: "ribeirao_preto",
   focus: "fullstack",  
   code: [HTML, CSS, PHP, Javascript, React, Python, Java],
-  framework: [Bootstrap, Tailwind]
+  framework: [Bootstrap, Tailwind],
   data: [MySQL, Oracle],
   tools: [VSCode, GitHub, Figma, Photoshop, Illustrator]
 }
