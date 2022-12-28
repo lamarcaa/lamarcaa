@@ -1,4 +1,4 @@
-<h2> Bem Vindo ao meu git! <img src="https://media.giphy.com/media/2Y8WL0eWZDNIFRoQbO/giphy.gif" width="5%"></h2>
+<h2> Bem-vindo ao meu git! <img src="https://media.giphy.com/media/2Y8WL0eWZDNIFRoQbO/giphy.gif" width="5%"></h2>
 <img align='right' src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="230">
 <i>• Estudante de Engenharia de Software pela Universidade de Ribeirão Preto <br></i>
 <i>• Apaixonado por tecnologia e design</i>
