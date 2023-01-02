@@ -31,3 +31,18 @@ const me = {
     architecture : "MVC"
   }
 ```
+
+
+  
+
+  
+  <table style="width:100%" border='0'>
+  <tr>
+    <td>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lamarcaa&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+</td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamarcaa&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+</td>
+  </tr>
+</table>
