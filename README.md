@@ -19,9 +19,9 @@ const me = {
   name: "gabriel_lamarca",
   age: "23",
   city: "ribeirao_preto",
-  focus: "fullstack",  
-  code: [HTML, CSS, PHP, Javascript, React, Python, Java],
-  framework: [Bootstrap, Tailwind],
+  focus: "front-end",  
+  code: [HTML, CSS, PHP, Javascript, React, Python],
+  framework: [Bootstrap],
   data: [MySQL, Oracle],
   tools: [VSCode, GitHub, Figma, Photoshop, Illustrator]
 }
