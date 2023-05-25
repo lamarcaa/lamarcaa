@@ -1,4 +1,4 @@
-<h2> Bem-vindo ao meu git! <img src="https://media.giphy.com/media/2Y8WL0eWZDNIFRoQbO/giphy.gif" width="5%"></h2>
+<h2> Bem-vindo ao meu git! </h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUzZDVkMzBlOWE3ZDk1OTBkYzUwN2QyZDY1YzczYjgxNTBmY2I3ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HBDT4QSTpveU/giphy.gif" width="230">
 <i>• Estudante de Engenharia de Software pela Universidade de Ribeirão Preto <br></i>
 <i>• Apaixonado por tecnologia e design</i>
