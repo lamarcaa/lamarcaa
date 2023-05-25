@@ -1,5 +1,5 @@
 <h2> Bem-vindo ao meu git! <img src="https://media.giphy.com/media/2Y8WL0eWZDNIFRoQbO/giphy.gif" width="5%"></h2>
-<img align='right' src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUzZDVkMzBlOWE3ZDk1OTBkYzUwN2QyZDY1YzczYjgxNTBmY2I3ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HBDT4QSTpveU/giphy.gif" width="230">
 <i>• Estudante de Engenharia de Software pela Universidade de Ribeirão Preto <br></i>
 <i>• Apaixonado por tecnologia e design</i>
 
@@ -17,10 +17,10 @@
 ```javascript
 const me = {
   name: "gabriel_lamarca",
-  age: "23",
+  age: "24",
   city: "ribeirao_preto",
-  focus: "front-end",  
-  code: [HTML, CSS, PHP, Javascript, React, Python],
+  focus: "back-end",  
+  code: [HTML, CSS, PHP, Javascript, Python],
   framework: [Bootstrap],
   data: [MySQL, Oracle],
   tools: [VSCode, GitHub, Figma, Photoshop, Illustrator]
